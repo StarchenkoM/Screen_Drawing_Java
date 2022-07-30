@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Screen Drawing</string>
+    <string name="camera_permission_granted">camera permission granted</string>
+    <string name="camera_permission_denied">camera permission denied</string>
+</resources>
